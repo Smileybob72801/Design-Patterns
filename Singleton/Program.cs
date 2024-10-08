@@ -2,6 +2,7 @@
 {
 	internal class Program
 	{
+		//
 		static void Main()
 		{
 			OrderProcessor processor1 = new ();
